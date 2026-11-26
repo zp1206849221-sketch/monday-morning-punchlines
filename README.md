@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=monday-morning-punchlines)
 [![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/zp1206849221-sketch/monday-morning-punchlines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=monday-morning-punchlines)
-[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=monday-morning-punchlines)
+[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/zp1206849221-sketch/monday-morning-punchlines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=monday-morning-punchlines)
 
 # Monday Morning Punchlines
 
